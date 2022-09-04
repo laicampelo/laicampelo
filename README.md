@@ -1,5 +1,5 @@
-# Oii, eu sou a Lai 💮
-### Seja bem-vind@!
+# Oii, eu sou a Lai! 💮
+### Seja bem-vind@
 
 <div align="center">
   <a href="https://github.com/laihanne">
