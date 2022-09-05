@@ -23,5 +23,3 @@
 
   ![Snake animation](https://github.com/Laihanne/Laihanne/blob/output/github-contribution-grid-snake.svg) 
    
-
-
