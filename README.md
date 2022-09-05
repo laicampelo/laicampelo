@@ -3,9 +3,9 @@
 ### Seja bem-vind@
 
 <div align="center">
-  <a href="https://github.com/laihanne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laihanne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laihanne&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/laicampelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laicampelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laicampelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,5 +21,5 @@
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-  ![Snake animation](https://github.com/Laihanne/Laihanne/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/laicampelo/laicampelo/blob/output/github-contribution-grid-snake.svg) 
    
